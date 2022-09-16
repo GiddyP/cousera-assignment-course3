@@ -1,0 +1,51 @@
+#header-nav {
+    background-color: #c4a51a;
+    border-radius: 0;
+    border: 0;
+    opacity: .9;
+}
+
+.navbar-brand {
+    padding-top: 25px;
+
+}
+
+.navbar-brand h1 {
+    font-family: 'Lora', serif;
+    color: #181d16;
+    font-size: 1.5em;
+    font-weight: bold;
+    margin-top: 0;
+    margin-bottom: 0;
+    bottom: 25px;
+    line-height: .75;
+}
+
+#nav-list {
+    margin-top: 10px;
+    margin: auto;
+}
+
+#nav-list a {
+    color: #150f11;
+    text-align: center;
+}
+
+#nav-list a span {
+    font-size: 1.5em;
+}
+
+.Menu {
+    padding: 0;
+    margin: 0;
+}
+
+h1,
+h3 {
+    text-align: center;
+    margin-bottom: 0;
+}
+
+.para {
+    background-color: #d1c073;
+}
